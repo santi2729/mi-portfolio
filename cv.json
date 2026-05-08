@@ -6,11 +6,11 @@
     "email": "santiagoaraoz@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Estudiante avanzado de la Licenciatura en TICs en la Universidad de Palermo con más de 4 años de experiencia en Ingeniería y Análisis de Datos. Especialista en la implementación de procesos ETL/ELT y migraciones de arquitecturas complejas hacia Data Lakes unificados. Cuento con experiencia probada en proyectos críticos para organismos públicos (INDEC, AFIP) y entidades financieras del Grupo Petersen, trabajando bajo metodologías ágiles (SCRUM)",
     "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "10001",
+      "postalCode": "1430",
       "city": "Buenos Aires",
       "countryCode": "ARG",
       "region": "Argentina"
@@ -36,10 +36,10 @@
   "work": [
     {
       "name": "Helios System",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
+      "position": "Semi Senior Data Engineer",
+      "location_type": "Remote",
+      "location": "Buenos Aires, Argentina",
+      "url": "https://heliosystem.io/",
       "startDate": "2024-12-01",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
@@ -55,9 +55,10 @@
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "SQL",
+        "Python",
+        "GitHub",
+        "Confluece"
       ]
     },
     {
