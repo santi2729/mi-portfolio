@@ -24,12 +24,12 @@
       {
         "network": "X",
         "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "santi2729",
+        "url": "https://github.com/santi2729"
       }
     ]
   },
@@ -42,129 +42,91 @@
       "url": "https://heliosystem.io/",
       "startDate": "2024-12-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Ejecución técnica de migraciones masivas de datos para el sector bancario, optimizando la centralización de activos y la resolución de incidentes mediante una arquitectura documentada.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        ""
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Migración técnica de datos: Ejecución de procesos de extracción y carga de diversas bases de datos hacia un Data Lake centralizado para las entidades del Grupo Petersen.",
+        "Gestión del conocimiento técnico: Creación y mantenimiento de la Wiki de arquitectura y documentación de flujos de datos.",
+        "Mantenimiento de infraestructura: Monitoreo preventivo y soporte técnico del Data Lake para asegurar la disponibilidad operativa de la plataforma."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Centralización de Información: Lideré exitosamente la migración al Data Lake, garantizando la integridad y consistencia de los datos críticos para el negocio bancario.",
+        "Optimización de Procesos: Desarrollé una base de conocimiento técnica que redujo los tiempos de resolución de problemas y facilitó la autonomía del equipo técnico.",
+        "Estabilidad del Ecosistema: Aseguré la continuidad operativa de los datos migrados mediante ajustes proactivos y monitoreo de infraestructura, minimizando errores en el flujo de información."
       ],
       "skills": [
         "SQL",
         "Python",
         "GitHub",
-        "Confluence"
+        "Confluence",
+        "NIFI"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "DBlandIT",
+      "position": "Junior Data Engineer",
+      "location_type": "Remote",
+      "location": "Buenos Aires, Argentina",
+      "url": "https://dblandit.com/",
+      "startDate": "2022-04-01",
+      "endDate": "2024-05-01",
+      "summary": "Data Engineer especializado en el desarrollo de procesos ETL/ELT para Big Data, con experiencia en proyectos de alta complejidad para organismos públicos (AFIP, INDEC) y multinacionales, bajo metodologías ágiles.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        ""
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Desarrollo de pipelines de datos: Ejecución de flujos ETL/ELT para el procesamiento de grandes volúmenes de información (Big Data).",
+        "Consultoría técnica especializada: Investigación de sistemas legados y resolución de incidencias en bases de datos para organismos públicos y empresas multinacionales.",
+        "Gestión bajo metodologías ágiles: Administración de ciclos de desarrollo y entregables utilizando marcos de trabajo SCRUM."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Resolución en entornos críticos: Aseguré la integridad y disponibilidad de datos para entidades gubernamentales de alta sensibilidad (INDEC, AFIP, RENAPER).",
+        "Adaptabilidad multisectorial: Implementé con éxito soluciones de datos para diversas arquitecturas en empresas como Accenture y Logan Media.",
+        "Eficiencia operativa: Optimicé el seguimiento de tareas mediante Agilefant, garantizando transparencia y cumplimiento de plazos en proyectos de alta complejidad."
       ],
       "skills": [
         "Python",
-        "Django",
+        "PowerBI",
         "SQL",
         "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
+    {}
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Universidad de Palermo",
+      "url": "https://www.palermo.edu",
+      "area": "Tecnologia de la Información y las Comunicaciones",
+      "studyType": "Licenciatura",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "score": "7.5",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "institution": "Escuela Técnica ORT",
+      "url": "https://www.ort.edu.ar",
+      "area": "Tecnologia de la Información y las Comunicaciones",
+      "studyType": "Bachillerato",
+      "startDate": "2016-03-01",
+      "endDate": "2020-12-01",
+      "score": "7.6",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Primeros Auxilios - SAR",
+      "date": "2024-05-01",
+      "issuer": "Sudamerica Rugby",
+      "url": "https://www.sudamerica.rugby/"
     }
   ],
   "skills": [
