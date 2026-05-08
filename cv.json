@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Santiago Araoz",
+    "label": "Semi Senior Data Engineer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
+    "email": "santiagoaraoz@gmail.com",
+    "phone": "",
+    "url": "",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Buenos Aire",
+      "countryCode": "ARG",
+      "region": "Argentina"
     },
     "profiles": [
       {
