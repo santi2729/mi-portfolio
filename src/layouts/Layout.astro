@@ -8,12 +8,13 @@ interface Props {
 }
 
 const { title } = Astro.props;
+const { lang } = Astro.params;
 
 const { image, summary, url, theme } = basics;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
 	<head>
 		<meta charset="UTF-8" />
 		<title>{title}</title>
