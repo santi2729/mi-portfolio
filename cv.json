@@ -85,8 +85,7 @@
         "Python",
         "Django",
         "SQL",
-        "Git",
-        "Confluence"
+        "Git"
       ]
     },
     {
@@ -291,6 +290,15 @@
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "Confluence",
+      "level": "Intermediate",
+      "keywords": [
+        "Knolege",
+        "WIKI",
+        "Knolege Managment"
       ]
     }
   ],
