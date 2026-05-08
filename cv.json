@@ -11,15 +11,15 @@
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Buenos Aire",
+      "city": "Buenos Aires",
       "countryCode": "ARG",
       "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "santiago-araoz",
+        "url": "https://www.linkedin.com/in/santiago-araoz/"
       },
       {
         "network": "X",
@@ -35,12 +35,12 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
+      "name": "Helios System",
       "position": "Junior Web Developer",
       "location_type": "On site",
       "location": "Auckland, New Zealand",
       "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "startDate": "2024-12-01",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
