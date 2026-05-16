@@ -22,11 +22,6 @@
         "url": "https://www.linkedin.com/in/santiago-araoz/"
       },
       {
-        "network": "X",
-        "username": "john-doe",
-        "url": ""
-      },
-      {
         "network": "GitHub",
         "username": "santi2729",
         "url": "https://github.com/santi2729"
@@ -291,33 +286,34 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": " Mi Portfolio / CV",
+      "isActive": true,
+      "description": "Portfolio personal y tambien mi CV online. ",
+      "highlights": [
+        "Hecho con Astro",
+        "Incluye boton para descargar CV en PDF"
+      ],
+      "url": "https://saraoz-portfolio.vercel.app/",
+      "github": "https://github.com/santi2729/mi-portfolio"
+    },
+    {
+      "name": "Mi blog personal",
+      "isActive": true,
+      "description": "Un blog personal donde comparto mis ideas acerca de la tecnología, programación y otros temas de interés.",
+      "highlights": [
+        "Hecho con Astro",
+        "Con Responsive design"
+      ],
+      "url": "https://astro-news-example.vercel.app/",
+      "github": "https://github.com/santi2729/astro-news-master"
+    },
+    {
+      "name": "ETL Pipeline BDUAR",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Todo un pipeline de datos de BDUAR, que se termina mostrando en un dashboard de PowerBI.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Hecho con NIFI, SQL y PowerBI",
+        ""
       ],
       "url": "https://taskmanager.com",
       "github": "https://github.com"
