@@ -96,7 +96,7 @@
     {
       "institution": "Universidad de Palermo",
       "url": "https://www.palermo.edu",
-      "area": "Tecnologia de la Información y las Comunicaciones",
+      "area": "Licenciatura en Tecnologia de la Información y las Comunicaciones",
       "studyType": "Licenciatura",
       "startDate": "2023-03-01",
       "endDate": null,
@@ -107,7 +107,7 @@
     {
       "institution": "Escuela Técnica ORT",
       "url": "https://www.ort.edu.ar",
-      "area": "Tecnologia de la Información y las Comunicaciones",
+      "area": "Bachiller en Tecnologia de la Información y las Comunicaciones",
       "studyType": "Bachillerato",
       "startDate": "2016-03-01",
       "endDate": "2020-12-01",
@@ -304,7 +304,7 @@
         "Hecho con Astro",
         "Con Responsive design"
       ],
-      "url": "https://astro-news-example.vercel.app/",
+      "url": "https://the-sport-traveler.vercel.app/",
       "github": "https://github.com/santi2729/astro-news-master"
     },
     {
@@ -312,11 +312,10 @@
       "isActive": false,
       "description": "Todo un pipeline de datos de BDUAR, que se termina mostrando en un dashboard de PowerBI.",
       "highlights": [
-        "Hecho con NIFI, SQL y PowerBI",
-        ""
+        "Hecho con NIFI, SQL y PowerBI"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "",
+      "github": ""
     },
     {
       "name": "E-commerce Site",
